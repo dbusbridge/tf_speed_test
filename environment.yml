@@ -1,0 +1,5 @@
+name: env_tf_speed_test
+dependencies:
+  - python==3.6
+  - pip:
+    - "--editable=."
